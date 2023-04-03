@@ -1,0 +1,2 @@
+Ce projet permet d'intérroger grace à une API, la liste des universtités au niveau du monde. 
+En saisissant un pays ( par ex : France), vous pourrez voir la liste des universités s'afficher. Si leur nombre est > à 50, une deuxiéme zone de filtre permet d'affiner la sélection.
